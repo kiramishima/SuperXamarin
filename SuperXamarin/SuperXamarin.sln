@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperXamarin.PCL", "SuperXamarin.PCL\SuperXamarin.PCL.csproj", "{F338D077-D663-4E34-958A-5814B8340F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperXamarin.Droid", "SuperXamarin.Droid\SuperXamarin.Droid.csproj", "{246CEB6A-B317-4760-870A-1C70D18EBD64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperXamarin.SuperConsoleApp", "SuperXamarin.SuperConsoleApp\SuperXamarin.SuperConsoleApp.csproj", "{44B675B2-BD1D-473C-BAEB-BCE815AFA229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F338D077-D663-4E34-958A-5814B8340F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F338D077-D663-4E34-958A-5814B8340F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F338D077-D663-4E34-958A-5814B8340F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F338D077-D663-4E34-958A-5814B8340F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{246CEB6A-B317-4760-870A-1C70D18EBD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246CEB6A-B317-4760-870A-1C70D18EBD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246CEB6A-B317-4760-870A-1C70D18EBD64}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{246CEB6A-B317-4760-870A-1C70D18EBD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246CEB6A-B317-4760-870A-1C70D18EBD64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{246CEB6A-B317-4760-870A-1C70D18EBD64}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{44B675B2-BD1D-473C-BAEB-BCE815AFA229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B675B2-BD1D-473C-BAEB-BCE815AFA229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B675B2-BD1D-473C-BAEB-BCE815AFA229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B675B2-BD1D-473C-BAEB-BCE815AFA229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
